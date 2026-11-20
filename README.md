@@ -8,9 +8,9 @@
 （这里写你用的语言和工具，比如：Python / HTML+CSS+JavaScript / Java）
 
 如何运行
-1. （第一步，比如：安装 Python 3 / 下载本仓库全部文件）
-2. （第二步，比如：进入项目文件夹）
-3. （第三步，比如：运行 python main.py / 双击打开 index.html）
+1. 电脑安装 Python 3
+2. 下载本仓库中的 my-project.py
+3. 在命令行中运行：python my-project.py
 
 主要功能
 - 行程规划
